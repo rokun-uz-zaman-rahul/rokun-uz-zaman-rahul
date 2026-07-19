@@ -70,7 +70,7 @@
   <a href="https://www.facebook.com/profile.php?id=100093664217857" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/facebook.svg" alt="FaceBook" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/smr_rokun/" target="_blank">
+  <a href="https://www.instagram.com/smr_rahul_tr/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/instagram.svg" alt="Instagram" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/_smr_rahul" target="_blank">
