@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rokun%20Uz%20Zaman%20Rahul&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Web%20Developer%20%7C%20Lifelong%20Learner%20%7C%20UI%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,100:a371f7&text=Rokun%20Uz%20Zaman%20Rahul&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Frontend%20Web%20Developer%20%7C%20Lifelong%20Learner%20%7C%20UI%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=rokun-uz-zaman-rahul">
@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vecteezy.com/vector-art/10997738-delivery-logo-english-alphabet-letters-b-vector-design-template-elements-for-your-application-or-company" alt="Bootstrap" width="40" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="40" />&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -65,19 +65,19 @@
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rokun-uz-zaman-rahul-2b09b741b/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/linkedin-light.svg" alt="LinkedIn" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkedin.png" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100093664217857" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/facebook-light.svg" alt="FaceBook" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/facebook.svg" alt="FaceBook" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/smr_rokun/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/instagram-light.svg" alt="Instagram" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/instagram.svg" alt="Instagram" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/_smr_rahul" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/twitter-light.svg" alt="Twitter" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/twitter.svg" alt="Twitter" width="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rokunuzzaman012@gmail.com" alt="rokunuzzaman012@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gmail-light.svg" alt="Gmail" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
 
